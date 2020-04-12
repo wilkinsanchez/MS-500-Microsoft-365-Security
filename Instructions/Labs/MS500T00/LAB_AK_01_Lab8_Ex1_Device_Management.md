@@ -1,4 +1,4 @@
-# Module 8 - Lab 1 - Exercise 1 - Enable Device Management
+# Module 8 - Lab 8 - Exercise 1 - Enable Device Management
 
 
 You are Holly Dickson the security administrator for Adatum Corporation, and you have Microsoft 365 deployed in a virtualized lab environment. In this lab, you will manage user devices using Intune.
