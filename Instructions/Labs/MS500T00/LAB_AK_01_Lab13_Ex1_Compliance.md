@@ -1,4 +1,4 @@
-# Module 1 - Lab 2 - Exercise 1 - Initialize Compliance 
+# Module 13 - Lab 13 - Exercise 1 - Initialize Compliance 
 
 In your role as Holly Dickson, Adatum’s Security Administrator, you have Microsoft 365 deployed in a virtualized lab environment. As you proceed with your Microsoft 365 pilot project, your next steps are to implement archiving and retention at Adatum.  
 
