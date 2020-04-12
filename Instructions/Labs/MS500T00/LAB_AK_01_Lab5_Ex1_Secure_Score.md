@@ -1,4 +1,4 @@
-# Module 1: Lab 2 - Exercise 1 - Improve your secure score in Microsoft 365 Security Center
+# Module 4: Lab 5 - Exercise 1 - Improve your secure score in Microsoft 365 Security Center
 
 You are the Global Admin Holly Dickson, and you&#39;re signed into Microsoft 365.
 
