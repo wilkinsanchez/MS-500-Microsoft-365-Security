@@ -1,4 +1,4 @@
-# Module 6 - Lab 1 - Exercise 2 - Conduct password attacks
+# Module 6 - Lab 7 - Exercise 2 - Conduct password attacks
 
 
 Holly Dickson is concerned that some users in her organization may require education about secure password strategies.  In this lab you will use the Microsoft 365 Attack simulator to determine your users' susceptibility to password attacks.
