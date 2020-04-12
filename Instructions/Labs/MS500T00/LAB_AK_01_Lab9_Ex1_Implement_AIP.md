@@ -1,4 +1,4 @@
-# Module 1 - Lab 2 - Exercise 1 - Implement Azure Information Protection  
+# Module 9 - Lab 9 - Exercise 1 - Implement Azure Information Protection  
 
 
 In your role as Holly Dickson, Adatum’s Security Administrator, you have Microsoft 365 deployed in a virtualized lab environment. As you proceed with your Microsoft 365 pilot project, your next steps are to implement Azure Information Protection (AIP) and Windows Information Protection (WIP) at Adatum. You will begin by configuring AIP and then using AIP on a client and verifying an AIP policy. You will then perform similar steps for WIP by configuring it for Adatum and then implementing WIP.
