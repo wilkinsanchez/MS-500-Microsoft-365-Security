@@ -1,4 +1,4 @@
-# Module 1 - Lab 2 - Exercise 2 - Implement Windows Information Protection  
+# Module 9 - Lab 9 - Exercise 2 - Implement Windows Information Protection  
 
 Now that you have implemented Azure Information Protection as part of your pilot project at Adatum, you’re now ready to implement Windows Information Protection. In this exercise, in your role as Holly Dickson, you will create a WIP policy (Client App protection policy for Windows) that is applied to any member of the WIP Users group who has an MDM enrolled device in Intune.
 
