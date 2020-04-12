@@ -1,4 +1,4 @@
-# Module 8 - Lab 1 - Exercise 2 - Configure Azure AD for Intune 
+# Module 8 - Lab 8 - Exercise 2 - Configure Azure AD for Intune 
 
 In this exercise you will activate the automatic client enrollment to Intune for Mobile Device Management (MDM). This will allow you to manage mobile device access and set policies for restricting access to devices unless certain actions are adopted, such as strong passwords and screen timeouts.
 
