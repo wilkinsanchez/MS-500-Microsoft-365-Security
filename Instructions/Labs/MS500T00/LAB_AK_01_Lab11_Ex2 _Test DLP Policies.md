@@ -1,4 +1,4 @@
-# Module 11 - Lab 1 - Exercise 2 - Test DLP Policies
+# Module 11 - Lab 11 - Exercise 2 - Test DLP Policies
 
 
 You are now at the point in your pilot project where you want to test policies. You have decided to test a DLP policy related to emails that contain sensitive information. 
