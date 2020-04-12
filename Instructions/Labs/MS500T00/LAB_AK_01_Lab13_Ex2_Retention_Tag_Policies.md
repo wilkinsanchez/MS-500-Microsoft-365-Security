@@ -1,4 +1,4 @@
-# Module 1 - Lab 2 - Exercise 2 - Configure Retention Tags and Policies  
+# Module 13 - Lab 13 - Exercise 2 - Configure Retention Tags and Policies  
 
 In this exercise, you will configure retention tags and policies, and you will implement archiving with MRM retention tags. 
 
