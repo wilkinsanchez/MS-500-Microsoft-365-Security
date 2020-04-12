@@ -1,4 +1,4 @@
-# Module 10 - Lab 1 - Exercise 1 - Configure Office 365 Message Encryption
+# Module 10 - Lab 10 - Exercise 1 - Configure Office 365 Message Encryption
 
 
 In this lab, you will take on the persona of Holly Dickson, Adatum’s Security Administrator. You have been tasked with piloting the use of Office 365 message encryption in Adatum’s Microsoft 365 deployment.
