@@ -1,6 +1,10 @@
 # MS-500X: Microsoft 365 Security Administrator
 
-This repository includes lab instructions for the following individual courses:
+This repository includes lab instructions for the following courses:
+
+- MS-500T00: Microsoft 365 Security Administration
+ 
+The following course labs are included in this repo but are set to retire later this year.  
 
 - MS-500T01: Managing Microsoft 365 Identity and Access
 - MS-500T02: Implementing Microsoft 365 Threat Protection
