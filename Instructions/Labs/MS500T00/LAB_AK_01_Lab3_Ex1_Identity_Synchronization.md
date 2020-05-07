@@ -1,4 +1,4 @@
-# Module 2 - Lab 3 - Exercise 1 - Setting up your organization for identity synchronization 
+# Module 2 - Lab 3 - Exercise 1 - Set up your organization for identity synchronization 
 
 You are Holly Dickson the security administrator for Adatum Corporation, and you have Microsoft 365 deployed in a virtualized lab environment. In this lab, you will implement identity synchronization between your Microsoft 365 tenant accounts and your local active directory accounts.
 
