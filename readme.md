@@ -4,13 +4,6 @@ This repository includes lab instructions for the following courses:
 
 - MS-500T00: Microsoft 365 Security Administration
  
-The following course labs are included in this repo but are set to retire later this year.  
-
-- MS-500T01: Managing Microsoft 365 Identity and Access
-- MS-500T02: Implementing Microsoft 365 Threat Protection
-- MS-500T03: Implementing Microsoft 365 Information Protection
-- MS-500T04: Administering Microsoft 365 Built-in Compliance
-
 
 **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
 
